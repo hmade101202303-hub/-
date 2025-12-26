@@ -1,0 +1,9 @@
+{
+  "name": "Smart Pharmacy APK Pro",
+  "description": "تطبيق صيدلية متكامل مع ذكاء اصطناعي ونظام إدارة متطور.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
